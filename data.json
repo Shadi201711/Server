@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "5",
+      "name": "iPhone XR",
+      "price": 900,
+      "description": "iPhone XR offers a great balance of features and affordability.",
+      "imageUrl": "./assets/images/iphone-xr.jpeg",
+      "quantity": 10
+    },
+    {
+      "id": "6",
+      "name": "Apple Watch",
+      "price": 500,
+      "description": "Apple Watch is a stylish and feature-rich smartwatch.",
+      "imageUrl": "./assets/images/apple-watch.jpeg",
+      "quantity": 10
+    },
+    {
+      "id": "7",
+      "name": "VR",
+      "price": 800,
+      "description": "VR (Virtual Reality) headset for immersive gaming and experiences.",
+      "imageUrl": "./assets/images/vr.jpeg",
+      "quantity": 10
+    }
+  ]
+}
